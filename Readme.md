@@ -5,7 +5,7 @@
 
 
 
-Hi guys, I'm **Alexandra**. I am a FullStack Developer from Zaragoza, Spain. I'm currently working on @Let'sCoder as a mentor.  
+Hi guys, I'm **Alexandra**. I am a FullStack Developer from Zaragoza, Spain. I'm currently working on @CampsiteAcademy as a mentor.  
 I have some works with **JavaScript**, **Node.js**, **ReactJS**, **Angular** contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
