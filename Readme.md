@@ -18,10 +18,7 @@ I have some works with **JavaScript**, **Node.js**, **ReactJS**, **Angular** con
 - [**NotesAPP**](https://notes-app-daily.herokuapp.com): Notes APP :)
 ... and more app's on mi GitHub
 
-## 💻 Open Source Work Stats
 
-
-![Alexandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexa9205&show_icons=true&theme=radical)
 
 
 <!--
