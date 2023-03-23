@@ -13,7 +13,7 @@ I have some works with **JavaScript**, **Node.js**, **ReactJS**, **Angular** con
 [LinkedIn][-1] or just ✉️ [Email](mailto:alexa929292@gmail.com) | 
 ## 💡 Projects with My Work
 
-- [**CineAPP**](https://notes-app-daily.herokuapp.com): CineApp
+- [**CineAPP**](https://cineapp.netlify.app): CineApp
 - [**@LexaShop**](https://alexa-shop.herokuapp.com): E-commerce 
 - [**NotesAPP**](https://notes-app-daily.herokuapp.com): Notes APP :)
 ... and more app's on mi GitHub
